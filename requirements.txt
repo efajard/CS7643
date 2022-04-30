@@ -3,3 +3,4 @@ fastai>=2
 pillow>=9.0.1
 packaging
 ipywidgets==7.5.1
+recipe-scrapers
